@@ -1,0 +1,14 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "description": "main.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "joel licklider",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.7"
+  }
+}
